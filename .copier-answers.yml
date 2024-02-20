@@ -13,7 +13,7 @@ mimetype: ''
 mimetype_name: ''
 project_short_description: A JupyterLab theme for jherng.
 python_name: jupyterlab_jherng
-repository: ''
+repository: https://github.com/hongjiaherng/jupyterlab-jherng
 test: false
 viewer_name: ''
 

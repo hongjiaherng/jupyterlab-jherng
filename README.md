@@ -1,6 +1,6 @@
 # jupyterlab_jherng
 
-[![Github Actions Status](/workflows/Build/badge.svg)](/actions/workflows/build.yml)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh//main?urlpath=lab)
+[![Github Actions Status](https://github.com/hongjiaherng/jupyterlab-jherng/workflows/Build/badge.svg)](https://github.com/hongjiaherng/jupyterlab-jherng/actions/workflows/build.yml)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hongjiaherng/jupyterlab-jherng/main?urlpath=lab)
 A JupyterLab theme for jherng.
 
 ## Requirements
