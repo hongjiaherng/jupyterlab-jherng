@@ -1,4 +1,4 @@
-# jupyterlab-jherng
+# jupyterlab_jherng
 
 [![Github Actions Status](https://github.com/hongjiaherng/jupyterlab-jherng/workflows/Build/badge.svg)](https://github.com/hongjiaherng/jupyterlab-jherng/actions/workflows/build.yml)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hongjiaherng/jupyterlab-jherng/main?urlpath=lab)
 A JupyterLab theme for me.
@@ -12,7 +12,7 @@ A JupyterLab theme for me.
 To install the extension, execute:
 
 ```bash
-pip install jupyterlab-jherng
+pip install jupyterlab_jherng
 ```
 
 ## Uninstall
@@ -20,7 +20,7 @@ pip install jupyterlab-jherng
 To remove the extension, execute:
 
 ```bash
-pip uninstall jupyterlab-jherng
+pip uninstall jupyterlab_jherng
 ```
 
 ## Contributing
@@ -35,7 +35,7 @@ The `jlpm` command is JupyterLab's pinned version of
 
 ```bash
 # Clone the repo to your local environment
-# Change directory to the jupyterlab-jherng directory
+# Change directory to the jupyterlab_jherng directory
 # Install package in development mode
 pip install -e "."
 # Link your development version of the extension with JupyterLab
@@ -64,7 +64,7 @@ jupyter lab build --minimize=False
 ### Development uninstall
 
 ```bash
-pip uninstall jupyterlab-jherng
+pip uninstall jupyterlab_jherng
 ```
 
 In development mode, you will also need to remove the symlink created by `jupyter labextension develop`

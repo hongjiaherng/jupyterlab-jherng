@@ -20,6 +20,7 @@ const plugin: JupyterFrontEndPlugin<void> = {
     manager.register({
       name: '@jherng/jupyterlab-jherng',
       isLight: true,
+      themeScrollbars: true,
       load: () => manager.loadCSS(style),
       unload: () => Promise.resolve(undefined)
     });

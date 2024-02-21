@@ -45,13 +45,13 @@ jobs:
 
         pip install build
         python -m build
-        pip uninstall -y "jupyterlab-jherng" jupyterlab
+        pip uninstall -y "jupyterlab_jherng" jupyterlab
 
     - name: Upload extension packages
       uses: actions/upload-artifact@v3
       with:
         name: extension-artifacts
-        path: dist/jupyterlab-jherng*
+        path: dist/jupyterlab_jherng*
         if-no-files-found: error
 
   test_isolated:
@@ -74,7 +74,7 @@ jobs:
         sudo rm -rf $(which node)
         sudo rm -rf $(which node)
 
-        pip install "jupyterlab>=4.0.0,<5" jupyterlab-jherng*.whl
+        pip install "jupyterlab>=4.0.0,<5" jupyterlab_jherng*.whl
 
 
         jupyter labextension list

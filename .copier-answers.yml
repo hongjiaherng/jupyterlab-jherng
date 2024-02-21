@@ -12,7 +12,7 @@ labextension_name: '@jherng/jupyterlab-jherng'
 mimetype: ''
 mimetype_name: ''
 project_short_description: A JupyterLab theme for me.
-python_name: jupyterlab-jherng
+python_name: jupyterlab_jherng
 repository: https://github.com/hongjiaherng/jupyterlab-jherng
 test: false
 viewer_name: ''
