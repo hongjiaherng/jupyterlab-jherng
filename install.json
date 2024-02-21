@@ -1,5 +1,5 @@
 {
   "packageManager": "python",
-  "packageName": "jupyterlab_jherng",
-  "uninstallInstructions": "Use your Python package manager (pip, conda, etc.) to uninstall the package jupyterlab_jherng"
+  "packageName": "jupyterlab-jherng",
+  "uninstallInstructions": "Use your Python package manager (pip, conda, etc.) to uninstall the package jupyterlab-jherng"
 }
