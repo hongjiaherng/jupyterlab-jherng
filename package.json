@@ -1,6 +1,6 @@
 {
     "name": "@jherng/jupyterlab-jherng",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "A JupyterLab theme for me.",
     "keywords": [
         "jupyter",
