@@ -1,7 +1,12 @@
 # jupyterlab-jherng
 
 [![Github Actions Status](https://github.com/hongjiaherng/jupyterlab-jherng/workflows/Build/badge.svg)](https://github.com/hongjiaherng/jupyterlab-jherng/actions/workflows/build.yml)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hongjiaherng/jupyterlab-jherng/main?urlpath=lab)
+[![pypi](https://img.shields.io/pypi/v/jupyterlab-jherng.svg)](https://pypi.org/project/jupyterlab-jherng/)
+[![npm](https://img.shields.io/npm/v/@jherng/jupyterlab-jherng.svg)](https://www.npmjs.com/package/@jherng/jupyterlab-jherng)
+
 A JupyterLab theme for me.
+
+![jherng_preview](assets/jherng_preview.png)
 
 ## Requirements
 
